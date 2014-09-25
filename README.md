@@ -1,4 +1,4 @@
-#WildFly 笔记
+#WildFly笔记
 
 ##参考书籍
 
@@ -16,3 +16,5 @@
 * [核心配置](core_config.md)
 * [部署应用](deploy_app.md)
 * [Log配置](logging.md)
+* [modules配置](modules.md)
+* [standalone模式下cluster配置](clustering.md)
